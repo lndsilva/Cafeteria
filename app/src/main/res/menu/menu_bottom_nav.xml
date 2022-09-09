@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mCoffee"
+        android:icon="@drawable/ic_baseline_coffee"
+        android:title="COFFEE" />
+    <item
+        android:id="@+id/mMuffin"
+        android:icon="@drawable/donut"
+        android:title="MUFFIN" />
+    <item
+        android:id="@+id/mTea"
+        android:icon="@drawable/tea"
+        android:title="TEA" />
+    <item
+        android:id="@+id/mDonuts"
+        android:icon="@drawable/donut"
+        android:title="DONUTS" />
+</menu>
